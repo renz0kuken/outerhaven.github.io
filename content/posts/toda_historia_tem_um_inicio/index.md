@@ -50,7 +50,7 @@ Além dessas duas gostaria de destacar a trilha da **Scrap Brain Zone** que eu t
 
 {{< youtube hSUZZXGbipc >}}
 
-## Algo
+## Game Over
 
 E aí? Vocês jogaram a versão do Master, do Mega Drive ou ambas? Para quem jogou só a versão do Mega Drive, sentiu a diferença das OST? Quais outros jogos vocês jogaram no Master System?
 
