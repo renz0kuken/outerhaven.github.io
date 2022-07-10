@@ -1,7 +1,7 @@
 baseURL = 'https://renz0kuken.github.io/outerhaven.github.io/'
 languageCode = 'pt'
 defaultContentLanguage = 'pt'
-title = ''
+title = 'Outerhaven'
 theme = "ananke"
 SectionPagesMenu = "main"
 

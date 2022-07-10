@@ -56,4 +56,4 @@ E aí? Vocês jogaram a versão do Master, do Mega Drive ou ambas? Para quem jog
 
 Nos próximos artigos pretendo continuar a contar um pouco da minha história com video games, como por exemplo, como aprendi a traduzir textos em Inglês por causa dos jogos ou histórias da locadora de games que minha família montou na minha adolescência, além de sei lá, análise de jogos e suas trilhas sonoras (Pena não ser um musicista para fazer uma análise mais técnica, mas vou tentar passar o sentimento que eu sinto ao escutar determinada trilha, ou o que aquela trilha significa para o jogo naquele momento). 
 
-Até o próxima!
+Até a próxima!
