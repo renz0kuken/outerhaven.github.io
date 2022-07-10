@@ -32,7 +32,7 @@ Logo na primeira fase o jogo entrega tudo, música, cores, jogablidade... Rapida
 
 Sério, não consigo deixar de pensar o quão impactante esse jogo foi para mim naquele dia, nunca tinha visto um jogo com uma tela de seleção de estágios daquela forma e nele tinha uns minigames bem legais também, que te recompensavam com power-ups ou vidas.
 
-Os power-ups eram a grande estrela do jogo para mim, a flor do fogo, a folha, os trajes (martelo, sapo, guaxinim) e a opção de serem utilizados a partir da tela de seleção de estágio nos dava bastante oportunidade de passar por fases que considerávamos mais difíceis.
+Os power-ups eram a grande estrela do jogo para mim, a flor do fogo, a folha, os trajes (martelo, sapo, guaxinim) e durante o jogo, você consegue pegar esse power-ups e guardar numa caixa de itens que podem ser utilizados a partir da tela de seleção de estágio e isso nos dava bastante oportunidade de passar por fases que considerávamos mais difíceis.
 
 Vai numa fase onde só voar vai te levar ao final? Use a folha,ou um item que tinha um P (Que era uma versão mais roubada da folha onde vc não precisava pegar impulso para voar e podia voar infinitamente). Ahh a fase é na agua? veste a roupa do sapo que o Mario vai nadar melhor. 
 
