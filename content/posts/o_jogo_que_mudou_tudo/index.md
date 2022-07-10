@@ -50,7 +50,7 @@ Para o Mario fazer pulos mais distantes, é necessário que ele corra, e ele só
 
 Naquela época, para mim, isso foi bem difícil, requeria bastante cordenação e memoria muscular, coisas que eu nunca tinha treinado com os outros jogos.
 
-E nesso jogo também tinha fases onde a "tela andava" e se você não agisse rápido, certamente iria morrer "imprensado" entre ta tela e algum obstáculo do mapa. Essas fases exigiam ainda mais da habilidade de correr e pular.
+E nesso jogo também tinha fases onde a "tela andava" e se você não agisse rápido, certamente iria morrer "imprensado" entre a tela e algum obstáculo do mapa. Essas fases exigiam ainda mais da habilidade de correr e pular.
 
 Levou certo tempo a dominar essa nova habilidade, até porque, eu não tinha o jogo em casa, e as vezes que eu jogava na locadora eram coisas de 1 hora por semana no máximo.
 
