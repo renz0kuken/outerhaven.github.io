@@ -58,7 +58,7 @@ Consegui treinar muito mais quando recebi meu Super Nintendo, com o Super Mario 
 
 Mas o que hoje percebo é que as pessoas que não passaram por essa fase, tem dificuldades enormes de jogar os jogos modernos de hoje em dia.
 
-Minha mãe apesar de ter tido habilidade suficiente para zerar Sonic no Master System, ela nunca chegou perto do mesmo no Super Mario World, simplesmente porque ela não consguia correr e pular, ou segurar um casco das tartarugas enquanto corria e pulava. (Até hoje ela só joga, apertando um botão por vez)
+Minha mãe apesar de ter tido habilidade suficiente para zerar Sonic no Master System, ela nunca chegou perto do mesmo no Super Mario World, simplesmente porque ela não consguia correr e pular, ou segurar um casco das tartarugas enquanto corria e pulava. (Até hoje ela só joga apertando um botão por vez)
 
 ## Let's Rock
 
