@@ -14,9 +14,9 @@ Essa locadora vivia cheia, era dificil reservar algum horário para jogar, lembr
 
 Mas um dia, meu amigo Wando, tinha reservado um horário e me levou para ver e jogar mais de perto.
 
-Eu nunca tinha visto aquele vídeo game, ele era todo preto com uns detalhes em azul, conseguia identificar o nome *Dynavision 3*, mas aparentava não ter botões no console, os cartuchos também chamaram minha atenção, tinha alguns que eram bastantes equisitos, eles eram bem maiores dos que o que eu tive no Master System, só que tinha uns que eram grandes e outros menores.
+Eu nunca tinha visto aquele vídeo game, ele era todo preto com uns detalhes em azul, conseguia identificar o nome *Dynavision 3*, aparentava não ter botões no console, os cartuchos também chamaram minha atenção, eles eram bem maiores dos que o que eu tive no Master System, só que tinha uns que eram grandes e outros menores.
 
-Outra coisa que me chamou atenção de imediato foi uma arma, que servia para alguns jogos que tinha na locadora, e o controle com 6 botões. (Além de pause estar no controle hehe).
+Outra coisa que me chamou atenção de imediato foi uma arma, que servia para alguns jogos que tinha na locadora, e o controle com 6 botões. (Além do botão pause estar no controle hehe).
 
 Mas a coisa mais mágica desse dia, foi ver um dos jogos que considero até hoje, um dos melhores de todos os tempos.
 
