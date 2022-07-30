@@ -5,6 +5,7 @@ title = 'Outerhaven'
 theme = "ananke"
 SectionPagesMenu = "main"
 disqusShortname = "outerhaven-1"
+enableEmoji = true
 
 
 
