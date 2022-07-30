@@ -5,7 +5,7 @@ draft: false
 tags: ["Dia a Dia"]
 description: ""
 summary: "O que eu faço com o pouco tempo disponível para jogar"
-featured_image: "https://w0.peakpx.com/wallpaper/136/623/HD-wallpaper-time-is-precious-inspirational.jpg"
+featured_image: "https://gamehall.com.br/wp-content/uploads/2020/12/pilha-de-jogos.jpg"
 ---
 
 Hoje de manhã estava vendo o quão grande tá meu backlog de jogos. EU nem sei quando vou consguir terminar tudo isso (na real, no fundo no fundo, eu sei que não vou). E fiquei pensando, poxa, queria ter mais tempo para jogar.
