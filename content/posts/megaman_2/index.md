@@ -5,7 +5,7 @@ draft: false
 tags: ["Joguinhos"]
 description: "The Blue Bomber"
 summary: "Um excelente jogo com uma das melhores trilhas sonoras que já escutei"
-featured_image: "https://static.wikia.nocookie.net/megaman/images/c/cb/Rockman_2_package_art.png/revision/latest?cb=20191116023117"
+featured_image: "http://static.wikia.nocookie.net/megaman/images/c/cb/Rockman_2_package_art.png/revision/latest?cb=20191116023117"
 ---
 
 Quando ganhei meu SNES um dos primeiros jogos que aluguei foi Megaman 7, o jogo era bem legal, não tinha jogado nada parecido com ele, pular e atirar nunca foi tão bom.
