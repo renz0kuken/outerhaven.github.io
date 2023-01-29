@@ -10,13 +10,13 @@ featured_image: "http://static.somosvos.com.br/uploads/2019/05/vos-escondidinho-
 
 Não lembro direito o ano, mas acredito que foi por volta de 98 ou 99 que ganhei um Super Nintendo da minha mãe e ele vinha com o cartucho do Super Mario World, com direito a manual do jogo e tudo. Era um videogame bonito e bem compacto, o controle com quatro botões e com os botões L e R caíam bem na minha mão.
 
-O video-game sempre foi uma alternativa usada pela minha mãe para me deixar em casa e não precisar brincar na rua, pois vivíamos em um bairro precário e de certa forma, perigoso. (Ainda lembro de um amigo que foi morto, por um rapaz que morava quase na frente da minha casa na época...) 
+O videogame sempre foi uma alternativa usada pela minha mãe para me deixar em casa e não precisar brincar na rua, pois vivíamos em um bairro precário e de certa forma, perigoso. (Ainda lembro de um amigo que foi morto, por um rapaz que morava quase na frente da minha casa na época...) 
 
-Então mesmo que o vídeo-game fosse bem caro, ela pagaria com todo gosto para me deixar fora da rua e eu como bom aborrecente na época queria também brincar na rua, jogar bola com os amigos, e sair com o pessoal andando nos bairros (sim, era isso que o pessoal fazia nessa época, saia por aí andando por zero motivos).
+Então mesmo que o videogame fosse bem caro, ela pagaria com todo gosto para me deixar fora da rua e eu como bom aborrecente na época queria também brincar na rua, jogar bola com os amigos, e sair com o pessoal andando nos bairros (sim, era isso que o pessoal fazia nessa época, saia por aí andando por zero motivos).
 
 Bem, hoje eu entendo o que minha mãe fez por mim.
 
-Voltando ao papo de vídeo-games, eu ganhei um Super Nintendo, aquele que o botão reset você têm que deslizar, ele vinha também com dois controles. Ele era bem legal e o jogo que veio com ele era bem mais ainda. Joguei muito o [Super Mario World](https://pt.wikipedia.org/wiki/Super_Mario_World), nem lembro quantas às vezes eu zerei esse jogo, e sim, passando pelas fases do mundo SPECIAL (maldita Tubular!).
+Voltando ao papo de vdeogame, eu ganhei um Super Nintendo, aquele que o botão reset você têm que deslizar, ele vinha também com dois controles. Ele era bem legal e o jogo que veio com ele era bem mais ainda. Joguei muito o [Super Mario World](https://pt.wikipedia.org/wiki/Super_Mario_World), nem lembro quantas às vezes eu zerei esse jogo, e sim, passando pelas fases do mundo SPECIAL (maldita Tubular!).
 
 {{< figure src="https://www.retrogame.com.br/arquivos/fotos/super-nintendo-snes-completo-na-caixa-isopor-super-set-18604-mlb20159152876_092014-f.jpg" title="Foi um desses que ganhei, essa versão vinha com o cartucho do Super Mario World e um controle adicional" >}}
 
