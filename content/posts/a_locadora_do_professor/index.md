@@ -18,7 +18,7 @@ Bem, hoje eu entendo o que minha mãe fez por mim.
 
 Voltando ao papo de vdeogame, eu ganhei um Super Nintendo, aquele que o botão reset você têm que deslizar, ele vinha também com dois controles. Ele era bem legal e o jogo que veio com ele era bem mais ainda. Joguei muito o [Super Mario World](https://pt.wikipedia.org/wiki/Super_Mario_World), nem lembro quantas às vezes eu zerei esse jogo, e sim, passando pelas fases do mundo SPECIAL (maldita Tubular!).
 
-{{< figure src="https://www.retrogame.com.br/arquivos/fotos/super-nintendo-snes-completo-na-caixa-isopor-super-set-18604-mlb20159152876_092014-f.jpg" title="Foi um desses que ganhei, essa versão vinha com o cartucho do Super Mario World e um controle adicional" >}}
+{{< figure src="https://www.retrogame.com.br/arquivos/fotos/super-nintendo-snes-completo-na-caixa-isopor-super-set-18604-mlb20159152876_092014-f.jpg" title="Foi um desses que ganhei, essa versão vinha com o cartucho do Super Mario World " >}}
 
 Mas aí tive o mesmo problema que tinha no master, meus pais não tinham grana para comprar jogos novos, imagino que minha mãe ainda tava pagando o Super Nintendo quando eu zerei Super Mario World pela centéssima vez. 
 
@@ -34,7 +34,7 @@ Aperreei muito a minha mãe para ir até lá, pois queria alugar jogos novos e c
 
 Diferente da locadora que tinha o Dynavision perto de casa, que só tinha uma estação, nessa tinham várias TVs, oito para ser exato, e todas elas ligadas a um Super Nintendo. 
 
-Na parede eram penduradas as capas dos jogos de forma numerada, e as pessoas escolhiam o jogo a partir da numeração. Constatei naquele dia que realmente éramos o país do futebol, das 8 TV, cinco estavam com pessoas jogando [International Superstar Soccer Deluxe](https://pt.wikipedia.org/wiki/International_Superstar_Soccer_Deluxe), outras tinha um jogo de carro, que depois fui descobrir que era [Top Gear](https://pt.wikipedia.org/wiki/Top_Gear_(jogo_eletr%C3%B4nico)) e as demais estavam com o meu velho conhecido, Super Mario World. 
+Na parede eram penduradas as capas dos jogos de forma numerada, e as pessoas escolhiam o jogo a partir da numeração. Constatei naquele dia que realmente éramos o país do futebol, das 8 TV, cinco estavam com pessoas jogando [International Superstar Soccer Deluxe](https://pt.wikipedia.org/wiki/International_Superstar_Soccer_Deluxe), outra tinha um jogo de carro, que depois fui descobrir que era [Top Gear](https://pt.wikipedia.org/wiki/Top_Gear_(jogo_eletr%C3%B4nico)) e as demais estavam com o meu velho conhecido, Super Mario World. 
 
 Era difícil escolher os jogos, eu não conhecia muitos, mas levei o jogo de futebol e o jogo de carro para jogar no final de semana. Foi paixão a primeira vista para ambos, entretanto Top Gear me chamou bem mais atenção, era muito legal jogar e era ainda mais legal jogar com duas pessoas. (Fazer o macete de bater na trave em alta velocidade na última volta para pegar duas posições simultaneamente, era bem bacana também hehe).
 
