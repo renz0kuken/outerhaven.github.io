@@ -1,10 +1,10 @@
 ---
-title: "Locadoras"
+title: "A Locadora do Professor"
 date: 2023-01-29T14:38:46-03:00
 draft: false
 tags: ["Das Antigas"]
-description: "Um mundo mágico"
-summary: "As locadoras de jogos com certeza fizeram parte da vida dos jogadores, seja para alugar algumas horas no local ou alugar um game para levar para casa."
+description: "Nunca vi tantos jogos!"
+summary: "Ahhh locadoras de jogos, seja para alugar um game para ser jogado por algumas horas no local ou para levar para casa, esse era o lugar ideal para você conhecer jogos novos na época"
 featured_image: "http://static.somosvos.com.br/uploads/2019/05/vos-escondidinho-hamilton-games-46.jpg"
 ---
 
