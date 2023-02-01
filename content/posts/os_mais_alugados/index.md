@@ -100,7 +100,7 @@ Claro que não podia faltar aqui Top Gear, a **Track 1** é a mais manjada de to
 
 Para não se alongar demais vou pegar só mais duas trilhas do Megaman X, na lista acima, nenhum jogo tem OST melhor que a dele, na real, esse deve ser o jogo com uma das melhores OST do Super Nintendo. Sinceramente esse jogo merece um post em separado para ranquear essa trilha maravilhosa. As duas que vou trazer não tem nehum critério de ser melhor que as demais, mas são as que mais lembro.
 
-Começando pela trilha **Sigma Stage 1** é pura nostalgia pra mim, o início dela da um tema de mistério e chamada para a ação, afinal estamos chegando entrando na fortaleza do chefe final.
+Começando pela trilha **Sigma Stage 1** é pura nostalgia pra mim, o início dela da um tema de mistério e chamada para a ação, afinal estamos entrando na fortaleza do chefe final.
 
 {{< youtube ZI8_kTRDyWI >}}
 
