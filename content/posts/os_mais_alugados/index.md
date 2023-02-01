@@ -1,14 +1,14 @@
 ---
 title: "Os jogos que estavam sempre sendo alugados"
-date: 2023-01-29T18:20:46-03:00
-draft: true
+date: 2023-02-01T11:20:46-03:00
+draft: false
 tags: ["Das Antigas"]
-description: "Um mundo mágico"
-summary: "Aqueles jogos que sempre estavam sendo alugados..."
-featured_image: "https://i0.wp.com/www.thevintagegamers.com/wp-content/uploads/2013/09/Shoebox.png"
+description: "Esses aqui estavam sempre sendo levados para casa no final de semana."
+summary: "Imagino que se você frequentou uma locadora, deve ter aqueles jogos que estavam sempre sendo alugados, aqui listo alguns dos que sempre estavam sendo levados para minha casa no final de semana"
+featured_image: "https://blog.jornalismounaerp.com.br/zeranosnoventa/wp-content/uploads/sites/8/2020/09/Imagem-Destaque.jpg"
 ---
 
-No [Post Anterior]({{< ref "/posts/locadoras" >}}) eu comentei sobre a minha descoberta de uma locadora de jogos perto de casa e como ela abriu a possibilidade de jogar outros jogos além do Super Mario World que veio junto com o meu Super Nintendo. Nesse post vou destacar (Sem nenhum ranqueamento) alguns dos jogos que eu conheci por meio da locadora.
+No [Post Anterior]({{< ref "/posts/a_locadora_do_professor" >}}) eu comentei sobre a minha descoberta de uma locadora de jogos perto de casa e como ela abriu a possibilidade de jogar outros jogos além do Super Mario World que veio junto com o meu Super Nintendo. Nesse post vou destacar (sem nenhum ranqueamento) alguns dos jogos que eu conheci por meio da locadora.
 
 ## Disney's Magical Quest 3
 
@@ -92,9 +92,9 @@ Claro que não podia faltar aqui Top Gear, a **Track 1** é a mais manjada de to
 
 Para não se alongar demais vou pegar só mais duas trilhas do Megaman X, na lista acima, nenhum jogo tem OST melhor que a dele, na real, esse deve ser o jogo com uma das melhores OST do Super Nintendo. Sinceramente esse jogo merece um post em separado para ranquear essa trilha maravilhosa. As duas que vou trazer não tem nehum critério de ser melhor que as demais, mas são as que mais lembro.
 
-Começando pelo... início. A trilha do **Opening Stage** é pura nostalgia pra mim, é escutar ela e o som do X carregando o tiro vem logo a minha cabeça.
+Começando pela trilha **Sigma Stage 1** é pura nostalgia pra mim, o início dela da um tema de mistério e chamada para a ação, afinal estamos chegando entrando na fortaleza do chefe final.
 
-{{< youtube MkhIGJsYb4I >}}
+{{< youtube ZI8_kTRDyWI >}}
 
 A trilha seguinte é a **Power Plant Stage**, sim a trilha do **Spark Mandrill**, tudo nessa música é bom, a guitarra, a bateria, os sintentizadores... 
 
