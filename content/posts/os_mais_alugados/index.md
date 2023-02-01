@@ -32,11 +32,13 @@ O  jogo foi desenvolvido pela Capcom e o Designer foi o [Shinji Mikami](https://
 
 {{< figure src="https://s2.glbimg.com/ZODTAUpphwFDOoTQAlOQTkD_7Dk=/0x0:796x580/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2018/q/D/AAKJqmQYmXjSKue7PsDQ/captura-de-tela-2018-05-16-as-11.34.10.png">}}
 
-Pra mim, o melhor jogo de corrida do Super Nintendo, a trilha sonora marcante, o gameplay super bom, a sensação de acelerar e ir ultrapassando os carros era muito legal. O melhor era que tinha um modo versus, todas as corridas eram super disputadas, e era comum fazer várias disputas com meus amigos. Era super comum você "telar" o amiguinho e trancar ele na hora da ultrapassagem, não minto que fazia isso muito, usar um turbo logo no começo para ficar na frente e segurar depois. Arriscado mas funcionava na maioria das vezes.
+Na minha humilde opinião, é o melhor jogo de corrida do Super Nintendo, trilha sonora marcante, o gameplay excelente, a sensação de acelerar e ir ultrapassando os carros é muito legal. O melhor era que tinha um modo versus, todas as corridas eram super disputadas, e era comum fazer várias disputas com meus amigos. 
 
-Pra não dizer que o jogo era só intriga, quando nosso amiguinho ficava sem gasosa era comum batermos atrás dele para que o mesmo consiguisse chegar no pit-stop para abastecer!
+Também era comum você "telar" o amiguinho e trancar ele na hora da ultrapassagem, não minto que fazia isso muito, usar um turbo logo no começo para ficar na frente e segurar depois. Arriscado mas funcionava na maioria das vezes.
 
-Sempre pegava o carro branco na época, pois ele consumia bem menos gasolina que os demais, mas no campeonato dos paises escandinámos o carro vermelho era o mais divertido!
+Pra não dizer que o jogo era só intriga, quando nosso amiguinho ficava sem gasosa era bem normal batermos na traseira do carro dele para que o mesmo consiguisse chegar no pit-stop para abastecer!
+
+Sempre pegava o carro branco na época, pois ele consumia bem menos gasolina que os demais, logo você não precisava perder um tempo precioso no pit-stop, mas no campeonato dos paises escandinámos o carro vermelho era o mais divertido!
 
 Quando ganhei um PC e fui buscar informações sobre Top Gear, notei que os gringos não curtiam tanto o jogo, na minha opinião eles não manjam nada, esse jogo é bom demais.
 
@@ -55,6 +57,8 @@ Joguei tanto esses dois jogos que hoje eu sei decorado onde pegar todas as parte
 {{< figure src="https://i0.wp.com/gamehall.com.br/wp-content/uploads/2011/05/mariokart07.jpg?resize=365%2C267">}}
 
 Um "Top Gear" onde podíamos sacanear ainda mais nossos amiguinhos? Perfeito. As dispustas de Mario Kart lá em casa eram acirradícimas, ainda mais no modo de batalha. Esse era um dos jogos que vez ou outra sempre estávamos alugando.
+
+As disputas mais acirradas eram na Rainbow Road, no modo 150cc (os karts eram bem mais ráppidos e difíceis de controlar) a pista não era tão difícil assim, mas com os karts no modo 150cc ela aumentava bem a possibilidade do jogador cair da pista, fazendo você perder ainda mais tempo.
 
 ## Strike Gunner S.T.G
 
