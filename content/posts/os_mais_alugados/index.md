@@ -64,19 +64,23 @@ As disputas mais acirradas eram na Rainbow Road, no modo 150cc (os karts eram be
 
 {{< figure src="https://jogoveio.com.br/wp-content/uploads/2020/06/stg-jogoveio-snes-4.png">}}
 
-Confesso que tive que procurar, "Melhores jogos de nave do Super Nintendo" para encontrar o nome desse jogo, dos jogos de nave que tinha no Super Nintendo esse era o nosso favorito, o Player 1 jogava com uma nave vermelha enquanto que o Player 2 jogava com uma azul, esse jogo tinha gráficos e performance legal para a época, pois tinha muitos projéteis na tela e mesmo assim ele caia os frames (ao menos é assim que lembro) também tinha um esquema onde você podia escolher uma arma secundaria a cada estágio. A ùltima fase era tensa porque você tinha que passar por uns túneis em alta velocidade, acontecia as vezes de dá gameover exatamente nessa parte hehe.
+Confesso que tive que procurar, "Melhores jogos de nave do Super Nintendo" para encontrar o nome desse jogo. 
+
+Dos jogos de nave que tinha no Super Nintendo esse era o nosso favorito, o Player 1 jogava com uma nave vermelha enquanto que o Player 2 jogava com uma azul, esse jogo tinha gráficos e performance legal para a época, pois tinha muitos projéteis na tela e mesmo assim ele caia os frames (ao menos é assim que lembro) também tinha um esquema onde você podia escolher uma arma secundaria a cada estágio. 
+
+A ùltima fase era tensa porque você tinha que passar por uns túneis em alta velocidade, acontecia as vezes de dá gameover exatamente nessa parte hehe.
 
 ## Sunset Riders
 
 {{< figure src="https://i.ytimg.com/vi/cfQbLqGfUpE/hqdefault.jpg">}}
 
-Que jogo foda, é um jogo de faroeste que foi desenvolvido pela Konami para Arcades e depois portado (saudades quando a Konami fazia jogo bom), acho que todo mundo que teve um Super Nintendo já jogou esse jogo, se não.. ainda há tempo, pega um emulador e vá jogar. 
+Sunset Riders é um jogo de faroeste que foi desenvolvido pela Konami para Arcades e depois portado (saudades quando a Konami fazia jogo bom), acho que todo mundo que teve um Super Nintendo já jogou esse jogo, se não.. ainda há tempo, pega um emulador e vá jogar. 
 
 No papel é um jogo de plataforma 2D onde você controla um personagem e sai atirando e desviando das balas dos inimigos (run and gun), cada final de fase tem um boss a ser derrotado, é um típico jogo de Arcade da época. 
 
 Você pode escolher entre quatro caçadores de recompensa, onde dois deles tem revólvers (tiro mais rápido e concentrado) e os outros tem tem espingardas (tiro mais lento, mas espalhado). Eu jogava bastante com os dois que tinham revólvers, achava que o tiro rápido e concentrado era melhor. No jogo dava para pegar uns upgrades e dava para deixar atirar com duas armas ou deixare as balas mais fortes e velozes. A trilha sonora desse jogo é sensacional também.
 
-Lembro que o jogo era super difícil também demorei para zerar junto com meus amigos, e não tinha continue, deu gameover começa do início.
+Lembro que o jogo era super difícil também, demorei para zerar junto com meus amigos, e não tinha continue, deu gameover começa do início.
 
 ## Let's Rock
 
