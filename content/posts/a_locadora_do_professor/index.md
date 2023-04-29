@@ -5,7 +5,7 @@ draft: false
 tags: ["Das Antigas"]
 description: "Nunca vi tantos jogos!"
 summary: "Ahhh locadoras de jogos, seja para alugar um game para ser jogado por algumas horas no local ou para levar para casa, esse era o lugar ideal para você conhecer jogos novos na época"
-featured_image: "http://static.somosvos.com.br/uploads/2019/05/vos-escondidinho-hamilton-games-46.jpg"
+featured_image: "https://jogoveio.com.br/wp-content/uploads/2018/01/papo-de-locadora-cover-nova-site-2018-dk.jpg"
 ---
 
 Não lembro direito o ano, mas acredito que foi por volta de 98 ou 99 que ganhei um Super Nintendo da minha mãe e ele vinha com o cartucho do Super Mario World, com direito a manual do jogo e tudo. Era um videogame bonito e bem compacto, o controle com quatro botões e com os botões L e R caíam bem na minha mão.
