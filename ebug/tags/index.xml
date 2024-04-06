@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Outerhaven</title>
+    <link>http://localhost:1313/outerhaven.github.io/tags/</link>
+    <description>Recent content in Tags on Outerhaven</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt</language>
+    <lastBuildDate>Mon, 08 Jan 2024 20:20:46 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/outerhaven.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Dia a Dia</title>
+      <link>http://localhost:1313/outerhaven.github.io/tags/dia-a-dia/</link>
+      <pubDate>Mon, 08 Jan 2024 20:20:46 -0300</pubDate>
+      <guid>http://localhost:1313/outerhaven.github.io/tags/dia-a-dia/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Das Antigas</title>
+      <link>http://localhost:1313/outerhaven.github.io/tags/das-antigas/</link>
+      <pubDate>Sat, 29 Apr 2023 11:20:46 -0300</pubDate>
+      <guid>http://localhost:1313/outerhaven.github.io/tags/das-antigas/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Joguinhos</title>
+      <link>http://localhost:1313/outerhaven.github.io/tags/joguinhos/</link>
+      <pubDate>Sat, 14 Jan 2023 12:43:46 -0300</pubDate>
+      <guid>http://localhost:1313/outerhaven.github.io/tags/joguinhos/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

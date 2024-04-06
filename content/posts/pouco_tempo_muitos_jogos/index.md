@@ -20,10 +20,6 @@ Não sei se esse é um sentimento universal, mas eu não consigo jogar somente u
 
 Um dos jogos que tenho jogado bastante junto com minha esposa é o [Fortnite](https://www.epicgames.com/fortnite/pt-BR/home), há algum tempo descobrimos o modo sem construção e que dava para jogar com a tela dividida usando somente um console! Não é super ideal por alguns bugs que ocorrem com o jogo, mas não é impeditivo. Compramos o passe de batalha do Fortnite para ambos e fazemos as missões dele juntos, tem sido bem divertido. Com o interesse para jogar outros jogos, acabei comprando um Series S para ela e hoje jogamos outros jogos também. 
 
-Abaixo está uma das nossas melhores vitórias.
-
-{{< tweet user="jarbaspsf" id="1542314398416797696" >}}
-
 [FallGuys](https://store.epicgames.com/pt-BR/p/fall-guys) é atualmente nosso passatempo favorito para passar raiva ultimamente. A premissa do jogo é basicamente ser um olimpíadas do faustão onde cada jogador vai competindo em diversas provas até chegar na prova final e somente um vencer. O jogo suporta vários tipos de modos e normalmente jogamos um chamado "duplinhas" onde nossa pontuação é somada ao final de cada rodada. Já ganhamos o total de 0 (zero) partidas nesse modo e é normal gritarmos alguns (muitos) palavrões durante as partidas.
 
 Tenho um Nintendo Switch e melhor, tenho uma rede de descanso na varanda de casa! Ou seja, o combo perfeito ficar jogando algumas partidas online de [Mario Kart 8 Deluxe](https://www.nintendo.com/pt-br/store/products/mario-kart-8-deluxe-switch/), eu adoro os jogos da franquia, e esse foi o primeiro jogo que tive no Switch (ganhei o console e o jogo como presente de anivérsário). O jogo tem muitos circuitos originais junto com outros remasterizados de jogos passados, fazendo com que ele seja o meu favorito de toda a franquia. Sempre é rápido encontrar partidas e o pessoal que joga são sempre bem habilidosos (E ardilosos :laughing:).
