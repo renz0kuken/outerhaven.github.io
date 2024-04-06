@@ -1,9 +1,9 @@
 ---
-title: Final Fantasy XVI"
+title: "Final Fantasy XVI"
 description: "Find the Flame"
 date: 2024-04-06T17:19:52-03:00
 draft: false
-summary: Review do Jogo"
+summary: "Review do Jogo"
 featured_image: "https://tecflow.com.br/wp-content/uploads/2023/03/Final-Fantasy-16.jpg"
 
 ---
@@ -24,15 +24,15 @@ A magia, além de ser usada em batalha, é utilizada nas tarefas do dia a dia, c
 
 Além disso existem alguns portadores especiais, que são chamados de Dominantes, cada um tem controle sobre um poderoso Eikon (Os famosos summons da série Final Fantasy) e o poder deles está muito além do de um portador, apesar que dependendo da crença e do Reino onde se encontra o Dominante, ele pode ser somente uma ferramenta de guerra igualmente escravizada ou pode estar em um cargo de importância, entretanto ainda sim uma ferramenta de guerra.
 
-O éter, que é a fonte da magia dos portadores pode ser resumido também a força vital do ambiente, para uma rosa florescer necessita que exista éter na terra onde ela está, mas no mundo de Valisthea existe lugares onde o não há mais éter e consequentemente não há vida, tais lugares foram atingindos por um praga, que ninguém sabe a origem, mas ela aumenta dia após dia, deixando os territórios menores e provocando uma escassez de recursos, causando ainda mais intriga e guerras entre os reinos sobre a conquista de novos terrtórios que ainda estejam férteis. 
+O éter, que é a fonte da magia dos portadores pode ser resumido também a força vital do ambiente, para uma rosa florescer necessita que exista éter na terra onde ela está, mas no mundo de Valisthea existe lugares onde o não há mais éter e consequentemente não há vida, tais lugares foram atingidos por um praga, que ninguém sabe a origem, mas ela aumenta dia após dia, deixando os territórios menores e provocando uma escassez de recursos, causando ainda mais intriga e guerras entre os reinos sobre a conquista de novos terrtórios que ainda estejam férteis. 
 
-É nesse mundo que a história de FFXVI se passa, e nela você controla Clive Rosfield, um dos princípes do reino de Rosaria, primeiro escudo do dominante da Fênix, Joshua Rosfield, seu irmão menor.
+É nesse mundo que a história de FFXVI se passa, e nela você controla Clive Rosfield, um dos príncipes do reino de Rosaria, primeiro escudo do dominante da Fênix, Joshua Rosfield, seu irmão menor.
 
 ## Sistema de Batalha
 
 Nada de sistema de turnos aqui, é ação total, tem bastante de character action (DmC/Bayonetta/Fi-Fi Rush) com leves sistemas de RPG, Final Fantasy XVI ainda é um JRPG logo ele não tem muito foco em customizar seu personagem e criar builds. O máximo que você vai conseguir é equipar alguns acessórios (são 3 slots) que podem aumentar o dano ou diminuir o tempo de cooldown de uma habilidade, aumentar a eficacia de itens curativos, aumentar o dano causado em algum percentual e por ai vai.
 
-Ao longo do jogo você ganha habilidades dos Eikons presentes no jogo, ao "equipar" um eikon você pode equipar 2 habilidades, sendo que até o final do jogo você pode equipar até 3 Eikons simultâneamente, ou seja, é possível ter até 6 habilidades ao mesmo tempo. As habilidades são usadas em um sistema de cooldown o que quer dizer que após usar a habilidade, deve se esperar um pouco até que se possa usar novamente. Cada habilidade tem dois indicadores principais, o tanto que ela dá de dano real e o quanto ela causa de dano de atordoamento, pois alguns inimigos e todos os chefes detêm uma barra de atordoamento que quando vazia deixa o inimigo em um estado atodoardo (Stagger, sistema que foi criado em FFXIII) onde nesse estado além de ficar incapacitado de atacar e se mover ele leva mais dano.
+Ao longo do jogo você ganha habilidades dos Eikons presentes no jogo, ao "equipar" um eikon você pode equipar 2 habilidades, sendo que até o final do jogo você pode equipar até 3 Eikons simultâneamente, ou seja, é possível ter até 6 habilidades ao mesmo tempo. As habilidades são usadas em um sistema de cooldown o que quer dizer que após usar a habilidade, deve se esperar um pouco até que se possa usar novamente. Cada habilidade tem dois indicadores principais, o tanto que ela dá de dano real e o quanto ela causa de dano de atordoamento, pois alguns inimigos e todos os chefes detêm uma barra de atordoamento que quando vazia deixa o inimigo em um estado atordoardo (Stagger, sistema que foi criado em FFXIII) onde nesse estado além de ficar incapacitado de atacar e se mover ele leva mais dano.
 
 Cada Eikon tem uma habilidade core, que muda a ação do botão O (Círculo), cada eikon detém ainda mais 4 habilidades, sempre que você desbloqueia um Eikon 2 habilidades vão estar desbloqueadas enquanto que as outras será necessário gastar pontos para serem liberadas, as habilidades também podem ser melhoradas, e ao melhorar ao máximo a habilidade de um Eikon fica disponível para ser equipada mesmo que outro Eikon esteja equipado, dando assim uma boa flexibilidade a como você deseja jogar, uma dessas habilidades que iniciam bloqueadas de um Eikon é como se fosse um super, com um alto cooldown, mas com um alto poder destrutivo.
 
