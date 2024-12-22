@@ -19,6 +19,6 @@ enableEmoji = true
   background_color_class = "bg-black"
   recent_posts_number = 3
 
-[[params.ananke_socials]]
-  name = "twitter"
-  url = "https://twitter.com/jarbaspsf"
+[params.ananke.social.linkedin]
+  username = "bluesky"
+  profilelink = "https://bsky.app/profile/jarbaspsf.bsky.social"
