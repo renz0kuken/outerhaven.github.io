@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "main.css",
-	"sourceRoot": "/home/jarbas/blogs/outerhaven.github.io",
+	"sourceRoot": "/home/jarbas/pessoal/outerhaven.github.io",
 	"sources": [
 		"ananke/css/main.css"
 	],

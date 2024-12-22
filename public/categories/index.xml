@@ -4,7 +4,7 @@
     <title>Categories on Outerhaven</title>
     <link>http://localhost:1313/outerhaven.github.io/categories/</link>
     <description>Recent content in Categories on Outerhaven</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>pt</language>
     <atom:link href="http://localhost:1313/outerhaven.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
